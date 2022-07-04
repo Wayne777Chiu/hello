@@ -1,3 +1,9 @@
+hello (2.10-3waynechiu1) jammy; urgency=low
+
+  * add string for practice.
+
+ -- wayneChiu <writer.wayne.chiu@gmail.com>  Wed, 4 Jul 2022 02:04:15 -0700
+
 hello (2.10-2ubuntu2) eoan; urgency=medium
 
   * Handle exit code 77 for skipped autopkgtests.
